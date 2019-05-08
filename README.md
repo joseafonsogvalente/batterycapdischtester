@@ -5,15 +5,10 @@ The device’s implementation was done by using an Arduino board and by discharg
 **Device Functionalities** 
 
 Measurement of Capacity
-
 Measurement of Internal Resistance
-
 Temperature of the Constant Current Load circuit
-
 Serial Communication using UART 
-
 MATLAB integration which allows to plot real-time graphics of all the variables measured.
-
 Integrated Cooling System (5V Fan)
 
 ![Image description](https://lh3.googleusercontent.com/OvSDa_gCZmppoqE7qf6w2aWMJBfEOgMFaVYrt1CgwPlirtXHUl92IhY0-0DrR540t9yft3UaGFAAKuVbwufLWpeg7vOtX6WNxhYBYQm7r6hC4-cdkbUlmza5BlC8NFhk3-06-mlnul28JUgwpevv6J626QcnleeS4FKhl-yw042Jwf02V0TaOjWmJQPHBp0xh3nMlwwhkOoQBJ6dl_2rTIgWx3LWP86C4aqnW05gu-QbE9PbOGHBcax-ieG9Lglc9-1GMx3eTH_0NGnHYpDct6m6WPpTj99CjItkoS3hs5QepxESg624fxwHbj95ygfozJfQ46HZXVEOgmZIoH01ziMIL6JHy853Vq8cgy249sitVsBN1nejg85ONEwyivtniKPMMemx1NRoczONnQwhlYF4rDd4DjPgFSlziy6qmLWL94P4BHGwavzO3ehWlOrzpnV02ppSOrrcIYdruGBWFLSOzp86xtD3rnXTKfvQcKTyRb_RHbTY8M7tioN_SwYCU0CRIl92twZssOF9erTp7yh9LwqSXobAMnKAiblw4TATQVzxwKU_bwhkB6Vel3FC8OcUmynmlmRdlhptzk3wj6XKGhvyaZMZHea_bH9TNe-XLyQBlMWBePo_ShXFZHpt0Xdto-If3P1A7B9yhSzvnvru8wJW6-g=w1735-h579-no)
